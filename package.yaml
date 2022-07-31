@@ -22,7 +22,7 @@ description:         Please see the README on GitHub at <https://github.com/gith
 dependencies:
 - base >= 4.7 && < 5
 - network-simple >=0.4.5
-- bytestring >=0.10.12.0
+- bytestring >=0.11.3.1
 - async >=2.2.4
 - aeson >= 2.1.0.0
 
